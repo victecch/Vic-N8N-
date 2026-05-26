@@ -1,1 +1,1 @@
-FROM ghcr.io/n8n-io/n8n:latest
+FROM n8nio/n8n:latest
